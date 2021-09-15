@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "778678996180",
+    "project_id": "chatappaxelit",
+    "storage_bucket": "chatappaxelit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778678996180:android:a3a662c5550937a9167f41",
+        "android_client_info": {
+          "package_name": "com.example.E_Wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778678996180-msqu7gpafquuba4ochk3pe3pums0s76l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3GKfVGQrQdgysZhoW60Ofdw2TFeC1dxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778678996180-msqu7gpafquuba4ochk3pe3pums0s76l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778678996180-uobvv7g54j5904ir31nvkltc7u36gjsn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterchat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
